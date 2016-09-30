@@ -2,7 +2,8 @@
 https://twitter.com/kitasuke/status/781382369953484806
 
 ```swift
-Sources/main.swift                                                                                                                                             (git)-[master] 
+// Sources/main.swift
+
 import spm02
 
 let g = Greeter()
